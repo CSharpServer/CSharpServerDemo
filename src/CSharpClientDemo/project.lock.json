@@ -6855,23 +6855,23 @@
     },
     "CSharpClientFramework/1.0.0": {
       "type": "project",
-      "path": "../../../../CSharpClientFramework/src/CSharpClientFramework/project.json",
-      "msbuildProject": "../../../../CSharpClientFramework/src/CSharpClientFramework/CSharpClientFramework.xproj"
+      "path": "../../../CSharpClientFramework/src/CSharpClientFramework/project.json",
+      "msbuildProject": "../../../CSharpClientFramework/src/CSharpClientFramework/CSharpClientFramework.xproj"
     },
     "CSharpServerCommon/1.0.0": {
       "type": "project",
-      "path": "../../../../CSharpServerCommon/src/CSharpServerCommon/project.json",
-      "msbuildProject": "../../../../CSharpServerCommon/src/CSharpServerCommon/CSharpServerCommon.xproj"
+      "path": "../../../CSharpServerCommon/src/CSharpServerCommon/project.json",
+      "msbuildProject": "../../../CSharpServerCommon/src/CSharpServerCommon/CSharpServerCommon.xproj"
     },
     "CSharpServerFrameworkAbstract/1.0.0": {
       "type": "project",
-      "path": "../../../../CSharpServerFrameworkAbstract/src/CSharpServerFrameworkAbstract/project.json",
-      "msbuildProject": "../../../../CSharpServerFrameworkAbstract/src/CSharpServerFrameworkAbstract/CSharpServerFrameworkAbstract.xproj"
+      "path": "../../../CSharpServerFrameworkAbstract/src/CSharpServerFrameworkAbstract/project.json",
+      "msbuildProject": "../../../CSharpServerFrameworkAbstract/src/CSharpServerFrameworkAbstract/CSharpServerFrameworkAbstract.xproj"
     },
     "CSServerJsonProtocol/1.0.0": {
       "type": "project",
-      "path": "../../../../CSServerJsonProtocol/src/CSServerJsonProtocol/project.json",
-      "msbuildProject": "../../../../CSServerJsonProtocol/src/CSServerJsonProtocol/CSServerJsonProtocol.xproj"
+      "path": "../../../CSServerJsonProtocol/src/CSServerJsonProtocol/project.json",
+      "msbuildProject": "../../../CSServerJsonProtocol/src/CSServerJsonProtocol/CSServerJsonProtocol.xproj"
     }
   },
   "projectFileDependencyGroups": {
